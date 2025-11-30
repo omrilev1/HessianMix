@@ -1,4 +1,4 @@
-# Iterative_Hessian_Mixing
+# Iterative Hessian Mixing
 
 Supporting code for the iterative Hessian mixing algorithm
 
