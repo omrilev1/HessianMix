@@ -1,6 +1,6 @@
 # Iterative Hessian Mixing
 
-Supporting code for the iterative Hessian mixing algorithm
+Supporting code for the paper "Near-Optimal Private Linear Regression via Iterative Hessian Mixing": https://arxiv.org/pdf/2601.07545
 
 For running the simulations, clone the repository and run IterativeHessianMixing_main.py; The datasets are picked internally inside this script. 
 
